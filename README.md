@@ -14,6 +14,7 @@
 - Especialista en ciberseguridad con experiencia en criptografía, seguridad de redes y desarrollo seguro.
 - Diseñé y supervisé sistemas de transferencia segura de datos y protocolos para información sensible.
 - Desarrollo servicios seguros, aplicaciones criptográficas y servicios de Windows orientados a entornos sensibles.
+- Desarrollo de plataformas financieras, integraciones y conexiones entre sistemas.
 - Experiencia en ciencia de datos, analítica económica, machine learning y minería de datos.
 - Experiencia en plataformas del sector financiero y en colaboración con equipos multidisciplinarios.
 - Ubicación: La Habana, Cuba.
@@ -24,7 +25,6 @@
 
 - **Universidad de las Ciencias Informáticas** — Supervisor de proyectos de análisis, desarrollo y traspaso seguro de datos.
 - **DATYS** — Especialista en desarrollo de software, servicios seguros y plataformas de datos.
-- **Bancuba / Blynka** — Desarrollo de aplicaciones, APIs, plataformas web y móviles.
 
 </div>
 
@@ -34,7 +34,7 @@
 
 `Criptografía` `Seguridad de redes` `Desarrollo seguro` `Protección de datos`
 `Autenticación` `Sistemas operativos` `Bases de datos` `Cloud security`
-`Python` `C/C++` `C#` `Machine Learning`
+`Python` `C++` `C#` `Machine Learning`
 
 </div>
 
@@ -44,10 +44,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C Plus Plus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
